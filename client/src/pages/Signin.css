@@ -1,0 +1,39 @@
+.signin {
+   
+    position: relative;
+    /* Full height */
+    height: 100vh; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#start {
+    color: white;
+    font-size: 35px;
+    background-image: url("./redhat.jpg");
+    height: 100px;
+    width: 235px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: right;
+}
+
+.row {
+    margin: 5px;
+}
+
+.fb-login-button {
+    float:right;
+}
+
+.navBtns {
+    float:right;
+}
+.navTitle{
+    text-align: left;
+    color: white;
+}
